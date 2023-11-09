@@ -1,13 +1,9 @@
-- name: Home
-  link: /
-- name: About
-  link: /about.html
 
 - name: "Home"
   link: "/"
 
-- name: "News"
-  link: "/news/"
+- name: "About"
+  link: "/About.html"
 
 - name: "Snippets"
   subcategories:
