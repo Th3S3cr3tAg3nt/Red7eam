@@ -2,9 +2,7 @@
 layout: default
 title: Home
 ---
-# *Red*7eam
-
-## Welcome to Red7eam!
+## Welcome to *Red*7eam!
 
 We are a company dedicated to providing affordable and high-quality red team physical penetration testing tools for security professionals. Our mission is to empower organizations to identify and address vulnerabilities in their physical security systems.
 
