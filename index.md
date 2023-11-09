@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Red7eam
+# *Red*7eam
 
 ## Welcome to Red7eam!
 
