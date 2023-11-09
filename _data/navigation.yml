@@ -3,15 +3,15 @@
 - name: About
   link: /about.html
 
-- title: "Home"
-  href: "/"
+- name: "Home"
+  link: "/"
 
-- title: "News"
-  href: "/news/"
+- name: "News"
+  link: "/news/"
 
-- title: "Snippets"
+- name: "Snippets"
   subcategories:
-    - subtitle: "Example1"
-      subhref: "#"
-    - subtitle: "Example2"
-      subhref: "#"
+    - subname: "Example1"
+      sublink: "#"
+    - subname: "Example2"
+      sublink: "#"
