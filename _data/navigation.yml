@@ -1,11 +1,4 @@
-- title: Home
+- name: Home
   link: /
-
-- title: About
-  link: /about/
-
-- title: Contact
-  link: /contact/
-  
-- title: Subscribe
-  link: /subscribe/
+- name: About
+  link: /about.html
