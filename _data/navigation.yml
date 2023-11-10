@@ -2,17 +2,16 @@
   url: /index.html
 - title: About
   url: /about.html
-- title: Contact
-  url: /contact.html
+- title: Training
+  url: /training.html
 - title: Store
   url: /store.html
   sublinks:
-    - title: FAQ
-      url: /faq.html
-    - title: Documentation
-      url: /documentation.html
-    - title: separator
-    - title: Customer Support
-      url: /customer-support.html
+    - title: Key Clam
+      url: /keyclam.html
+    - title: Under Door Tool
+      url: /underdoortool.html
+    - title: Shark Card
+      url: /sharkcard.html
 - title: Support
   url: /support.html
