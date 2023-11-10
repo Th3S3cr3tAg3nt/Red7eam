@@ -6,3 +6,20 @@ The SharkCard is a bypass tool based on the classic credit card bypass. Ideal fo
 This is an affordable alternative to metal tools which attract more attention. The SharkCard is priced to be a tool that you can ditch if you need to, and have a spare for your next engagement.
 
 They are so cheap we don't even sell them individually, and free shipping is included within the UK!
+
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="VUEUVKNC9AKTG">
+	<table>
+<tr><td><input type="hidden" name="on0" value="Quantity">Quantity</td><td><select name="os0">
+	<option value="2 Cards">2 Cards £5.00 GBP</option>
+	<option value="5 Cards">5 Cards £10.00 GBP</option>
+</select> </td><td>
+<input type="hidden" name="currency_code" value="GBP">
+<input type="submit" value="Get Yours" name="submit" alt="PayPal – The safer, easier way to pay online!">
+</td>
+</tr>
+</table>
+</form>
+
+See how to bypass a latch using a SharkCard on YouTube.
