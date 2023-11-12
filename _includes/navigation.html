@@ -7,8 +7,8 @@
         {% endif %}
         {% if link.sublinks %}
             <div class="subnav">
-            <button class="subnavbtn">{{ link.title }} <i class="fa fa-caret-down"></i></button>
-            <div class="subnav-content">
+              <button class="subnavbtn">{{ link.title }} <i class="fa fa-caret-down"></i></button>
+              <div class="subnav-content">
                 {% for sublink in link.sublinks %}
                     {% if sublink.title == 'separator' %}
                         <li role="separator" class="divider"></li>
@@ -16,6 +16,7 @@
                         <a href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
                     {% endif %}
                 {% endfor %}
+              </div>
             </div>
         {% else %}
             <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
