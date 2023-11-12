@@ -7,4 +7,4 @@ But the *Key*Clam isn't just for red teaming – it's also a valuable tool for l
 
 You can either purchase the *Key*Clam CNC file for £3.00 to make your own, or purchase a professionally made and carefully put together device for only £20.00.
 
-<img src="{{site.url}}{{ site.baseurl }}/images/keyclam1.jpg">
+![SharkCard](/images/keyclam1.jpg)
