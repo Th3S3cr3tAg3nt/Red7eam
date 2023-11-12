@@ -5,7 +5,7 @@ The *Shark*Card is a bypass tool based on the classic credit card bypass. Ideal 
 
 This is an affordable alternative to metal tools which attract more attention. The *Shark*Card is priced to be a tool that you can ditch if you need to, and have a spare for your next engagement.
 
-![KeyClam](/images/keyclam1.jpg)
+![SharkCard](/images/sharkcard1.jpg)
 
 They are so cheap we don't even sell them individually, and free shipping is included within the UK!
 
