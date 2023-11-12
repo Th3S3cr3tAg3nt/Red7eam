@@ -4,6 +4,8 @@
   url: /about.html
 - title: Training
   url: /training.html
+- title: Blog
+  url: /blog.html
 - title: Store
   url: /store.html
   sublinks:
@@ -13,5 +15,4 @@
       url: /underdoortool.html
     - title: Shark Card
       url: /sharkcard.html
-- title: Support
-  url: /support.html
+
