@@ -12,6 +12,26 @@ Don't let locked doors stand in the way of your security assessments any longer.
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
   <input type="hidden" name="cmd" value="_s-xclick" />
   <input type="hidden" name="hosted_button_id" value="UVBY86A2LASLY" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="Quantity"/>
+        Quantity
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="1 Under Door Tool" selected>
+            1 Under Door Tool £30.00 GBP
+          </option>
+          <option value="2 Under Door Tools">
+            2 Under Door Tools £55.00 GBP
+          </option>
+        </select>
+      </td>
+    </tr>
+  </table>
   <input type="hidden" name="currency_code" value="GBP" />
-  <input type="submit" value="£30 Get Yours" name="submit" alt="PayPal – The safer, easier way to pay online!">
+  <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Add to Cart" />
 </form>
