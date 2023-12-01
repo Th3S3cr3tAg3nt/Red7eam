@@ -26,7 +26,7 @@ Don't let locked doors stand in the way of your security assessments any longer.
       </td>
       <td>
   <input type="hidden" name="currency_code" value="GBP" />
-  <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Add to Cart" />
+  <input type="submit" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Add to Cart" />
       </td>
     </tr>
   </table>
