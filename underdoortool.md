@@ -15,12 +15,6 @@ Don't let locked doors stand in the way of your security assessments any longer.
   <table>
     <tr>
       <td>
-        <input type="hidden" name="on0" value="Quantity"/>
-        Quantity
-      </td>
-    </tr>
-    <tr>
-      <td>
         <select name="os0">
           <option value="1 Under Door Tool" selected>
             1 Under Door Tool £30.00 GBP
@@ -30,8 +24,10 @@ Don't let locked doors stand in the way of your security assessments any longer.
           </option>
         </select>
       </td>
-    </tr>
-  </table>
+      <td>
   <input type="hidden" name="currency_code" value="GBP" />
   <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Add to Cart" />
+      </td>
+    </tr>
+  </table>
 </form>
